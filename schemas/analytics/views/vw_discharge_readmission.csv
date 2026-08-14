@@ -1,0 +1,27 @@
+"discharge_disposition","total_encounters","readmitted_30_days","readmission_rate_pct"
+Discharged/transferred to a federal health care facility,5,0,0.00
+Admitted as an inpatient to this hospital,21,9,42.86
+Neonate discharged to another hospital for neonatal aftercare,6,0,0.00
+Discharged/transferred within this institution to Medicare approved swing bed,63,28,44.44
+Discharged/transferred to ICF,815,104,12.76
+Discharged to home,60234,5602,9.30
+Discharged/transferred to another rehab facility including rehab units of a hospital,1993,552,27.70
+"Expired in a medical facility. Medicaid only, hospice.",2,0,0.00
+"Expired at home. Medicaid only, hospice.",8,0,0.00
+Discharged/transferred to home under care of Home IV provider,108,15,13.89
+Left AMA,623,90,14.45
+Discharged/transferred to another short term hospital,2128,342,16.07
+Discharged/transferred/referred to a psychiatric hospital or psychiatric distinct part unit,139,51,36.69
+Discharged/transferred to a long term care hospital,412,30,7.28
+,3691,459,12.44
+Hospice / medical facility,372,24,6.45
+Discharged/transferred to a nursing facility certified under Medicaid but not Medicare,48,7,14.58
+Expired,1642,0,0.00
+Not Mapped,989,92,9.30
+Discharged/transferred to another type of inpatient care institution,1184,247,20.86
+Hospice / home,399,19,4.76
+Discharged/transferred to home with home health service,12902,1638,12.70
+Discharged/transferred/referred to this institution for outpatient services,14,0,0.00
+Discharged/transferred/referred another institution for outpatient services,11,0,0.00
+Still patient or expected to return for outpatient services,3,2,66.67
+Discharged/transferred to SNF,13954,2046,14.66

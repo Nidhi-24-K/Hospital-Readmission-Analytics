@@ -1,0 +1,5 @@
+"medication_group","total_encounters","readmitted_30_days","readmission_rate_pct"
+"0-10",25861,2344,9.06
+"11-20",52025,5962,11.46
+"21-30",18643,2400,12.87
+"31+",5237,651,12.43
