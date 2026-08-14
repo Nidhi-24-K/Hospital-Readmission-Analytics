@@ -1,4 +1,4 @@
-# 🏥 Hospital Readmission Analytics
+## Hospital Readmission Analytics
 
 ### Identifying patterns associated with 30-day readmission among patients with diabetes
 
@@ -16,13 +16,13 @@ This project focuses on **descriptive and diagnostic analytics** rather than pre
 
 ---
 
-## 🎯 Business Question
+## Business Question
 
 > **Which factors are associated with higher 30-day hospital readmission, and where could healthcare teams focus follow-up efforts?**
 
 ---
 
-## 💡 Key Questions
+## Key Questions
 
 The analysis investigates four major areas:
 
@@ -83,7 +83,7 @@ The dataset is licensed under **CC BY 4.0**.
 
 ---
 
-# 🏗️ Project Architecture
+# Project Architecture
 
 The project follows a simplified analytics pipeline:
 
