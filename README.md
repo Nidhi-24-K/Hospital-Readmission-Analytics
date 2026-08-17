@@ -7,7 +7,9 @@
 Hospital readmissions are an important healthcare analytics problem because repeated hospitalizations can increase healthcare utilization, operational burden, and patient care complexity.
 
 This project analyzes **101,766 inpatient encounters involving patients with diabetes** across 130 U.S. hospitals and integrated delivery networks from **1999–2008**.
-
+---
+https://github.com/user-attachments/assets/4ccaa9b3-2640-4948-b08f-f369ef546d94
+---
 The goal is to use **PostgreSQL and Tableau** to investigate:
 
 > **Which patient, utilization, clinical, and discharge factors are associated with higher 30-day readmission, and where could care teams focus follow-up efforts?**
