@@ -69,6 +69,9 @@ The original dataset defines three readmission outcomes:
 - `>30` — readmitted after 30 days
 - `NO` — not readmitted
 
+## 🎥 Demo
+https://github-production-user-asset-6210df.s3.amazonaws.com/139551318/637062337-338288db-1fa5-462a-9d3d-17bc7f8a3665.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260817T165441Z&X-Amz-Expires=300&X-Amz-Signature=ad2b6583e095830898e5d6070f88bc2634b0015b018d0e7fc8cda1185811fd52&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4
+
 ### Source
 
 UCI Machine Learning Repository:
