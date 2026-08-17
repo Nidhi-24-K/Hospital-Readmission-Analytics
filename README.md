@@ -8,7 +8,7 @@ Hospital readmissions are an important healthcare analytics problem because repe
 
 This project analyzes **101,766 inpatient encounters involving patients with diabetes** across 130 U.S. hospitals and integrated delivery networks from **1999–2008**.
 ---
-https://github.com/user-attachments/assets/4ccaa9b3-2640-4948-b08f-f369ef546d94
+[https://github.com/user-attachments/assets/4ccaa9b3-2640-4948-b08f-f369ef546d94](https://github.com/user-attachments/assets/5b274f23-0a86-488a-b792-75182b2d4863)
 ---
 The goal is to use **PostgreSQL and Tableau** to investigate:
 
